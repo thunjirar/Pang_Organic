@@ -1,1 +1,0 @@
-web: gunicorn pang_organic.wsgi
